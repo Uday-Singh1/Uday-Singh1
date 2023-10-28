@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there👋
+
+I am Uday Singh and currently a junior webdeveloper 
+
+view my portfolio here:
+https://udaysingh.me/
+
+connect with me on linkedin:
 
 
 
