@@ -6,7 +6,8 @@ view my portfolio here:
 https://udaysingh.me/
 
 connect with me on linkedin:
-
+<a href="https://www.linkedin.com/in/uday-singh-8a5093252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nabil-salimi-5a5616267" height="30" width="40" /></a>
+</p>
 
 
 ### 📊 Stats
